@@ -1,0 +1,1 @@
+case class P2(num: Int)
