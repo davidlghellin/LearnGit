@@ -2,4 +2,4 @@ object Main extends App {
   println("Hello, World!")
 }
 
-case class P(n: Int, letra: String, aa: String)
+case class P(n: Int, letra: String, hh: Int)
