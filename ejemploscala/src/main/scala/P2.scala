@@ -1,1 +1,1 @@
-case class P2(num: Int)
+case class P2(num: Int,ii : Int)
